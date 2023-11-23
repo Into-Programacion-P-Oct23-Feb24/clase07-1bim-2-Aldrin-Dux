@@ -21,10 +21,8 @@ public class Ejemplo05 {
         Scanner entrada = new Scanner(System.in);
         entrada.useLocale(Locale.US);
         
-        // 2. numero, i[0, n]
         System.out.println("Ingrese valor a potenciar");
         int numero=entrada.nextInt();
-        // 3. potencia, i[0, n]
         System.out.println("Ingrese el potenciador");
         int potencia=entrada.nextInt();
         int resultado;
