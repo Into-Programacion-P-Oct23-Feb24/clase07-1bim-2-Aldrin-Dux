@@ -16,7 +16,7 @@ public class Ejemplo01 {
         do {
             System.out.printf("%d\n", contador);
             contador = contador + 1;
-        } while (contador <= 10);
+        } while (contador >= 10);
     }
 
 }
