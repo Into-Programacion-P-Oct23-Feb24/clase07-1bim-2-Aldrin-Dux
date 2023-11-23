@@ -3,9 +3,9 @@
  este permite que se presente el resultado de una potencia previamentes 
  ingresadas o ya definidas, en este caso el numero es la base=4 y la potencia 
  es el exponente=3 dando como resultado 64, usando un contador desde 1 hasta que
-tenga el mismo valor que la potencia, primero el resultado es 1 para multiplicar-
-lo con numero dando el mismo resultado que una potencia, cuando el contador pasa
-de la potencia el resultado se escribe solo
+ tenga el mismo valor que la potencia, primero el resultado es 1 para multiplicar-
+ lo con numero dando el mismo resultado que una potencia, cuando el contador pasa
+ de la potencia el resultado se escribe solo
  */
 package ejemplos01;
 
